@@ -16,6 +16,7 @@ namespace EngEdu
             Console.WriteLine("Year 2558 semester 1, I learn to Calculus very hard.");
             Console.WriteLine("Year 2558 semester 2, I learn to Computer Progamming with Dr.Sushin.");
             Console.WriteLine("Year 2559 semester 1, I select Computer sec.");
+            Console.WriteLine("Year 2559 semester 2, I got a grad F in Digital Subject.");
         }
     }
 }
